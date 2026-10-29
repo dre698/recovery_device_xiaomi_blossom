@@ -57,7 +57,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 
 	# R11.1 Settings
 	export FOX_VERSION="R11.1"
-	export OF_MAINTAINER="Sushrut1101"
+	export OF_MAINTAINER="dre698"
 
 	# Screen Settings
 	export OF_SCREEN_H=2400
